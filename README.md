@@ -26,6 +26,9 @@ In this paper, the author first noticed the existence of *adversarial examples* 
 * The Space of Transferable Adversarial Examples
 * Adversarial Examples that Fool both Human and Computer Vision 
 * **taxonomy of adversaries against DNN classifers?** : The Limitations of Deep Learning in Adversarial Settings [ [paper](https://arxiv.org/abs/1511.07528) ]
+*  A Marauder’s Map of Security and Privacy in Machine Learning: An overview of current and future research directions for making machine learning secure and private, **AISec 2018**[[paper](https://export.arxiv.org/abs/1811.01134)]
+
+
 
 
 ## Survey
