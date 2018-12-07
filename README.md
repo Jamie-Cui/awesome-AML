@@ -1,8 +1,6 @@
 # Adversarial Machine Learning Paper
 
-Papers about **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)**.
-
-( **Not** to be confused with Generative adversarial network, GAN )
+Papers about **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)**. 
 
 For detailed information of each paper, check `adversarial_paper.csv`.
 
@@ -10,7 +8,7 @@ For detailed information of each paper, check `adversarial_paper.csv`.
 
 In this paper, the author first noticed the existence of *adversarial examples* in image classification application.
 
-* **L-BFGS**  Intriguing properities of neural networkds,2013 , [ [paper](https://arxiv.org/abs/1312.6199) ] 
+* **L-BFGS**  Intriguing properities of neural networks, 2013, [ [paper](https://arxiv.org/abs/1312.6199) ] 
 
 
 ## Introduction and Analysis
