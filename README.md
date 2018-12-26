@@ -1,8 +1,8 @@
 # Adversarial Machine Learning Paper
 
-A simple explanation of **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)**. 
+This markdown file contains a paper colloction of adversarial machine learning. If you felt confused about the definition or seeking an introduction, please check **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)** from wiki. 
 
-## Adversarial Examples in Vision Domain
+## Vision Domain
 
 - [First Discovery] [L-BFGS]  **Intriguing properities of neural networks**, 2013, [ [paper](https://arxiv.org/abs/1312.6199) ]
 > Contribution: In this paper, the author first noticed the existence of *adversarial examples* in image classification application.
