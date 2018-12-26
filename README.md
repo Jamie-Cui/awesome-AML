@@ -4,8 +4,8 @@ A simple explanation of **[Adversarial Machine Learning](https://en.wikipedia.or
 
 ## Adversarial Examples in Vision Domain
 
-- [First Discovery] [L-BFGS]  **Intriguing properities of neural networks**, 2013, [ [paper](https://arxiv.org/abs/1312.6199) ] \\
-> In this paper, the author first noticed the existence of *adversarial examples* in image classification application.
+- [First Discovery] [L-BFGS]  **Intriguing properities of neural networks**, 2013, [ [paper](https://arxiv.org/abs/1312.6199) ]
+> Contribution: In this paper, the author first noticed the existence of *adversarial examples* in image classification application.
 
 
 ## Introduction and Analysis
