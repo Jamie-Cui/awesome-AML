@@ -4,7 +4,7 @@ This markdown file contains a paper colloction of adversarial machine learning. 
 
 ## Vision Domain
 
-- [First Discovery] [L-BFGS]  **Intriguing properities of neural networks**, 2013, [ [paper](https://arxiv.org/abs/1312.6199) ]
+- [First Discovery] [L-BFGS]  **Intriguing properities of neural networks**, 2013, (Szegedy et al.) [ [paper](https://arxiv.org/abs/1312.6199) ]
 > Contribution: In this paper, the author first noticed the existence of *adversarial examples* in image classification application.
 
 
