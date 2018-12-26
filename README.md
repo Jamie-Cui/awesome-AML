@@ -1,6 +1,6 @@
 # Adversarial Machine Learning Paper
 
-This markdown file contains a paper colloction of adversarial machine learning. If you felt confused about the definition or seeking an introduction, please check **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)** from wiki. 
+This markdown file contains a paper colloction of adversarial machine learning. If you are confused about this domain or seeking for a brief introduction, please check out wikipedia **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)** . 
 
 ## Vision Domain
 
