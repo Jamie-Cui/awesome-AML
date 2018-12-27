@@ -10,20 +10,24 @@ This markdown file contains a paper colloction of adversarial machine learning. 
 ## Audio Domain
 
 - \[First Discovery\] **Cocaine Noodles: Exploiting the gap between human and machine speech recognition, USENIX Security 2015**, (Vaidya et al.)
-> Contribution: this paper found adversrial examples against ASR systems, they showed an input signal can be modified to fit the transcription by considering the features instead of the output of DNN. Problem: their adversarial examples show a high distortion of the original data and human can easily perceive the attack.
+> Contribution: this paper found adversrial examples against ASR systems, they showed an input signal can be modified to fit the transcription by considering the features instead of the output of DNN. 
+> Problem: their adversarial examples show a high distortion of the original data and human can easily perceive the attack.
 
 - **Hidden voice commands, UNSENIX Security 2016**, (Carlini et al.)
-> Contribution: this paper demonstrated that targeted attacks against HMM-only ASR systems are feasible. Problem: Even though the peturbation sounds like noise, it is still not indistinguishable by humans.
+> Contribution: this paper demonstrated that targeted attacks against HMM-only ASR systems are feasible. 
+> Problem: Even though the peturbation sounds like noise, it is still not indistinguishable by humans.
 
 - \[ultra-sound based attacks\]\[DolphinAttacks\] **DolphinAttack: Inaudible voice commands, CCS 2017**, (Zhang et al.)
-> Contribution: this paper shows that it is possible to hide a transcription by utilizing non-linearities of microphones to modulate the baseband audio signal with ultrasound higher than 20 kHz, human can only hear sounds in 20Hz~20kHz. Problem: such attacks are costy as the attack is based on specific microphone.
+> Contribution: this paper shows that it is possible to hide a transcription by utilizing non-linearities of microphones to modulate the baseband audio signal with ultrasound higher than 20 kHz, human can only hear sounds in 20Hz~20kHz. 
+> Problem: such attacks are costy as the attack is based on specific microphone.
 
 - [ultra-sound based attacks] **BackDoor: Making microphones hear inaudible sounds, MSAS 2017**
 
 - [ultra-sound based attacks] **Inaudible voice commands, 2017**
 
 - [CTC loss] **Audio adversarial examples: Targeted attacks on Speech-to-Text, 2018**, (Carlini and Wagner)
-> Contribution: this paper proposed a general targeted attack using connectionist temporal classification loss, similar to vision problems, this attack replace the loss function with CTC loss, which is optimized for time-sequences. Problem: Distance metrics borrowed from vision problems, does not consider the sensitivities and limits of human auditory perception.
+> Contribution: this paper proposed a general targeted attack using connectionist temporal classification loss, similar to vision problems, this attack replace the loss function with CTC loss, which is optimized for time-sequences. 
+> Problem: Distance metrics borrowed from vision problems, does not consider the sensitivities and limits of human auditory perception.
 
 - [psychoacoustic hiding] **Adversarial Attacks Against Automatic Speech Recognition Systems via Psychoacoustic Hiding, 2019**, (Schönherr et al.)
 > Contribution
