@@ -1,4 +1,4 @@
-# Awesome Aml [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Adversaroal Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > This markdown file contains a paper colloction of adversarial machine learning. If you are confused about this domain or seeking a brief introduction, please check out wikipedia **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)** . 
 
