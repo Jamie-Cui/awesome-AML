@@ -1,13 +1,20 @@
-# Adversarial Machine Learning Paper
+# Awesome Aml [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This markdown file contains a paper colloction of adversarial machine learning. If you are confused about this domain or seeking a brief introduction, please check out wikipedia **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)** . 
+> This markdown file contains a paper colloction of adversarial machine learning. If you are confused about this domain or seeking a brief introduction, please check out wikipedia **[Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)** . 
 
-## Vision Domain
+
+## Contents
+
+- [Vision](#Vision)
+- [Audio](#Audio)
+
+
+## Vision
 
 - [First Discovery] [L-BFGS]  **Intriguing properities of neural networks**, 2013, (Szegedy et al.) [ [paper](https://arxiv.org/abs/1312.6199) ]
 > Contribution: In this paper, the author first noticed the existence of *adversarial examples* in image classification application.
 
-## Audio Domain
+## Audio
 
 - \[First Discovery\] **Cocaine Noodles: Exploiting the gap between human and machine speech recognition, USENIX Security 2015**, (Vaidya et al.)
 > Contribution: this paper found adversrial examples against ASR systems, they showed an input signal can be modified to fit the transcription by considering the features instead of the output of DNN. 
@@ -100,7 +107,6 @@ In this category, the attacker focus on a face recognition system (like Face++),
 * Adversarial Vulnerability of Neural Networks Increases With Input Dimension , [ [paper](https://arxiv.org/abs/1802.01421) ]
 * **Speech** : DolphinAttack: Inaudible Voice Commands
 
-
 ### Attacks to Malware Detection
 
 * Evading Classifiers by Morphing in the Dark, **black-box attack**
@@ -108,8 +114,6 @@ In this category, the attacker focus on a face recognition system (like Face++),
 * Automated poisoning attacks and defenses in malware detection systems: An adversarial machine learning approach, 2018 , **Computers & Security**, [ [paper](https://www.sciencedirect.com/science/article/pii/S0167404817302444?via%3Dihub)]
 * Adversarially Robust Malware Detection Using Monotonic Classification,CODASPY 2018, [ [paper](https://dl.acm.org/citation.cfm?doid=3180445.3180449) ]
 * Adversarial Training Methods for Semi-Supervised Text Classification , **ICLR 2017**, [ [paper](https://openreview.net/forum?id=r1X3g2_xl) ]
-
-
 
 ## Defenses
 
@@ -133,10 +137,6 @@ Papers:
 * **Defence** Mitigating adversarial effects through randomization **defend by randomly padding/resizing/perturbing (denoising)**
 * Robust Linear Regression Against Training Data Poisoning, **AISec@CCS 17** , [ [paper](https://people.eecs.berkeley.edu/~liuchang/paper/aisec17-poisoning.pdf) ]
 
-
-
-
-
 ## Stealing Machine Learning Models
 
 * Cracking Classifiers for Evasion: A Case Study on the Google’s Phishing Pages Filter
@@ -152,6 +152,14 @@ Papers:
 * Machine Learning Models that Remember Too Much, **CCS'17**
 
 
+## Contribute
 
-## Unclassified
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Jamie Cui has waived all copyright and
+related or neighboring rights to this work.
